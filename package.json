@@ -1,0 +1,14 @@
+{
+  "name": "sequelize-kt3",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "queries.js",
+  "scripts": {
+    "seed": "node seed.js",
+    "start": "node queries.js"
+  },
+  "dependencies": {
+    "sequelize": "^6.37.7",
+    "sqlite3": "^5.1.7"
+  }
+}
